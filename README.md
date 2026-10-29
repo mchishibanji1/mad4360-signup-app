@@ -108,11 +108,11 @@ The tip feature is separate from signup validation. A displayed tip cannot appro
 
 
 
-\## Undergraduate Reflection Questions
+# Undergraduate Reflection Questions
 
 
 
-\### 1. Trace the local tip feature from button tap to displayed text. Which widget/state changes during simulated loading, and how does the app recover from a local error?
+# 1. Trace the local tip feature from button tap to displayed text. Which widget/state changes during simulated loading, and how does the app recover from a local error?
 
 
 
@@ -120,7 +120,7 @@ When the user taps the tip button, the application enters a simulated loading st
 
 
 
-\### 2. Why keep form validation local even when the app can provide a tip? Give an example of a bad decision if AI approved signup.
+# 2. Why keep form validation local even when the app can provide a tip? Give an example of a bad decision if AI approved signup.
 
 
 
